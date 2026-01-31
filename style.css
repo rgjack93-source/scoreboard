@@ -1,0 +1,42 @@
+body {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    margin: 0;
+    background-color: #1b244a
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #080010 color;
+    color: #F94f6d;
+    padding-top: 60px;
+}
+
+.Title {
+    color: #EEEEEE;
+}
+
+button {
+    background: transparent;
+    color: #9AABD8;
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    padding: 6px 10px;
+    font-family: inherit;
+    cursor: pointer;
+    margin: 5px;
+}
+
+h2 {
+    background-color: pink;
+    color: whitesmoke;
+    width: 120px;
+    margin: 10px auto;
+    padding: 20px 0;
+    border-radius: 5px;
+    width: 155px;
+    height: 120px;
+    font-size: 90px;
+    line-height: 120px;
+}
